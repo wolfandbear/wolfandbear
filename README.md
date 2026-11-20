@@ -6,7 +6,7 @@ I build and deploy applied AI systems, from production ML models to LLM agents, 
 background in battery chemistry, solid-state NMR and computational chemistry.
 
 - 🚀 Recently built and deployed a production ML model and its API for a consulting client
-- 🤖 Building LLM agents and AI-engineering tooling
+- 🤖 Building an LLM agent that assigns solid-state NMR spectra of the battery SEI, automating my PhD workflow
 - 🔋 Battery characterisation, modelling and algorithms
 - 🧪 Computational NMR: DFT (Gaussian) shift prediction for spectral assignment
 - 📈 Inventor on a granted US patent for ML anomaly detection in industrial process signals
