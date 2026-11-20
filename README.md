@@ -2,8 +2,8 @@
 
 **Applied AI Scientist** | Consultant, Colibri Group · PhD Chemistry, University of Cambridge
 
-I build and deploy machine-learning systems, bringing a background in battery chemistry, solid-state
-NMR, computational chemistry and industrial ML.
+I build and deploy applied AI systems, from production ML models to LLM agents, drawing on a
+background in battery chemistry, solid-state NMR and computational chemistry.
 
 - 🚀 Recently built and deployed a production ML model and its API for a consulting client
 - 🤖 Building LLM agents and AI-engineering tooling
