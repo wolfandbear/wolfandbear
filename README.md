@@ -1,6 +1,6 @@
 # Alison Michan
 
-**Applied AI Scientist** | Consultant, Colibri Group · PhD Materials Chemistry, University of Cambridge
+**Applied AI Scientist** | Consultant, Colibri Group · PhD Chemistry, University of Cambridge
 
 I build and deploy machine-learning systems, bringing a background in materials science, electrode
 and battery chemistry, and battery-management algorithms.
@@ -26,6 +26,6 @@ scratch in Java as the Q-function. Removing state quantisation raised the win ra
 `Java` `Q-learning` `backpropagation`
 
 ## Background
-- **PhD, Materials Chemistry**, University of Cambridge
+- **PhD, Chemistry**, University of Cambridge: research in materials and battery chemistry
 - **M.A.Sc., Engineering Physics**, University of British Columbia
 - Publications and patents in materials and battery chemistry: see [Google Scholar](https://scholar.google.com/citations?user=cZftWjcAAAAJ)
